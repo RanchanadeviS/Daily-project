@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   
+ body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 90vh;
+    width: auto;
+    background-color: #ffff;
+    font-family: cursive;
+ background-color: #27dbde
+}
+ 
+}
+
+h1{
+   font-size: 3rem;
+   color: #0b021d; 
+}
+
+#weekday{
+    font-size: 5rem;
+    color: #050315;
+    text-transform:uppercase;
+    font-weight: 800;
+}
+
+
